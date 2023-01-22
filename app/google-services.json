@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899085613081",
+    "project_id": "invernadero-camino-verde",
+    "storage_bucket": "invernadero-camino-verde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899085613081:android:85b45ca1f735c6388a1288",
+        "android_client_info": {
+          "package_name": "com.example.invernaderocaminoverde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899085613081-pnnsarb3nk8kfh6lihinqgiun387m3li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8eIvVQMM_h1flAtCoCA-biNCLQMvLw1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899085613081-pnnsarb3nk8kfh6lihinqgiun387m3li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
